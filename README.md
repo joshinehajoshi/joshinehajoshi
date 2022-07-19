@@ -1,5 +1,5 @@
 ### Hello there 👋
-
+- 🔭 Total Experience in Frontend - 1.8 years.
 - 🔭 I’m working as a React Developer/Frontend Developer.
 - 🔭 I’m currently working on CypressLawn Project.
 - 💬 Ask me about JavaScript, React, Python, HTML, CSS, Bootstrap.
